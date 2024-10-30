@@ -1,0 +1,42 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: OER-Metadaten-Generator (TULLUBA)
+description: >-
+  Ein benutzerfreundlicher Generator für Bild-Metadaten nach der TULLUBA-Regel,
+  der die Erstellung von JSON-LD und <figcaption>-Elementen für Open Educational
+  Resources (OER) unterstützt. Er ermöglicht eine einfache Strukturierung und
+  den Export von Metadaten und Bildunterschriften zur Wiederverwendung.
+license: https://creativecommons.org/publicdomain/zero/1.0/deed.de
+id: https://oer.community/sdg-logos-und-oer-wie-darf-ich-sie-verwenden/
+creator:
+  - givenName: Jörg
+    familyName: Lohrer
+    id: https://orcid.org/0000-0002-9282-0406
+    type: Person
+    affiliation:
+      name: Comenius-Institut
+      id: https://ror.org/025e8aw85
+      type: Organization
+keywords:
+  - SDG
+  - Sustainable Developtment Goals
+  - OER
+  - Creative Commons
+inLanguage:
+  - de
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n069
+  - https://w3id.org/kim/hochschulfaechersystematik/n079
+  - https://w3id.org/kim/hochschulfaechersystematik/n121
+  - https://w3id.org/kim/hochschulfaechersystematik/n222
+  - https://w3id.org/kim/hochschulfaechersystematik/n287
+  - https://w3id.org/kim/hochschulfaechersystematik/n71
+image: >-
+  https://lehreladen.rub.de/wp-content/uploads/2023/09/20221012-01-final-tulluba-vs.svg
+learningResourceType:
+  - https://w3id.org/kim/hcrt/web_page
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_C
+datePublished: '2024-10-30'
